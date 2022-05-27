@@ -1,0 +1,25 @@
+body {
+    background-color: #DDE149;
+}
+
+div {
+    margin-top: 15rem;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    margin: auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    border: solid 3px blue;
+    background-color: yellow;
+    width: 20rem;
+    height: 5rem;
+    font-size: 2rem;
+    padding-top: 1rem;
+    color: blue;
+}
